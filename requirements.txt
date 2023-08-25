@@ -1,0 +1,7 @@
+streamlit==1.25.0
+streamlit-chat==0.1.1
+requests==2.31.0
+Faker==19.3.0
+watchdog==3.0.0
+pandas==2.0.3
+numpy==1.25.2
