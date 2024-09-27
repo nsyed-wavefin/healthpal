@@ -8,6 +8,7 @@ from generator import generate_data
 st.title("Health Pal")
 
 OPEN_API_SECRET = "4c952124-e406-4715-9e01-40c2035dc5b0"
+APP_SECRET ="SLKNAAS&*AS(A(SA&S^AS$AS%A*&AS&"
 
 default_prompt = """
 Make this chat a health based chat only. 
